@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;It's+Loensh!)](https://git.io/typing-svg)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loensh&fontSize=72&animation=fadeIn&fontAlignY=45)
+</div>
