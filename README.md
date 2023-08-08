@@ -7,3 +7,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=loensh&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=loensh&theme=merko&hide_border=true&background=FFFFFF00">
 </p> -->
+
+<p align="center"> <!-- spotify -->
+  <a href="https://open.spotify.com/user/31krciahygshsk2tlj26x3jsvnyu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"></a>
+</p>
