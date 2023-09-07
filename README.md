@@ -8,8 +8,10 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=loensh&theme=merko&hide_border=true&background=FFFFFF00">
 </p> -->
 
-<p align="center"> <!-- spotify -->
-  <a href="https://open.spotify.com/user/31krciahygshsk2tlj26x3jsvnyu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31krciahygshsk2tlj26x3jsvnyu&cover_image=true&theme=default&show_offline=false&background_color=0D1117&bar_color=53b14f&bar_color_cover=true&interchange=true"></a>
+<p align="center"> <!-- My skills -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,blender,bootstrap,c,cs,css,dart,devto,discord,eclipse,figma,firebase,flutter,git,github,godot,html,idea,instagram,js,kotlin,linux,md,netlify,nodejs,powershell,py,react,stackoverflow,svg,ts,unity,vercel,visualstudio,vscode,webpack&perline=12" />
+  </a>
 </p>
 
 <p align="center"> <!-- bottom -->
