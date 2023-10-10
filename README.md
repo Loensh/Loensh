@@ -8,6 +8,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=loensh&theme=merko&hide_border=true&background=FFFFFF00">
 </p> -->
 
+[![An image of @loensh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/loensh)](https://holopin.io/@loensh)
+
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
